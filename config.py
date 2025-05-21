@@ -8,8 +8,8 @@ BOT_TOKEN = "7894723019:AAEn9AyMO-yTZfXWv2fL0ShNZVYQYqSgJbs" #7894723019:AAEn9Ay
 ADMIN_ID = [1671999217, 929704825]
 
 # Telegram channel for subscription
-CHANNEL_ID = -1002547583689
-CHANNEL_INVITE_LINK = "https://t.me/perehodtestbot443"
+CHANNEL_ID = -1002649315309
+CHANNEL_INVITE_LINK = "https://t.me/+ceVc3XQn5q40ZTEy"
 
 # SQLite database file path
 DB_FILE = "gdz_bot.db"
