@@ -2,7 +2,7 @@
 # Bot configuration settings
 
 # Telegram Bot Token from @BotFather
-BOT_TOKEN = "7782667817:AAEY8Z3a1gqu6E9Ineu-KyggH17A4p6shgU" #7894723019:AAEn9AyMO-yTZfXWv2fL0ShNZVYQYqSgJbs
+BOT_TOKEN = "7894723019:AAEn9AyMO-yTZfXWv2fL0ShNZVYQYqSgJbs" #7894723019:AAEn9AyMO-yTZfXWv2fL0ShNZVYQYqSgJbs
 
 # List of admin Telegram user IDs
 ADMIN_ID = [1671999217, 929704825]
